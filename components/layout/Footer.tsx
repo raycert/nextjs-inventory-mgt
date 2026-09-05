@@ -6,7 +6,7 @@ export default function Footer() {
     >
       All Rights Reserved &copy; 2026{' '}
       <a href="#" style={{ fontWeight: 600 }}>
-        GildedGlow
+        Zume
       </a>
     </div>
   );

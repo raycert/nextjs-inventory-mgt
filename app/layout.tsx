@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./gildedglow.css";
 
 export const metadata: Metadata = {
-  title: "GildedGlow",
-  description: "GildedGlow Inventory & POS",
+  title: "Zume",
+  description: "Zume Inventory & POS",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

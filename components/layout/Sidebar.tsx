@@ -111,8 +111,8 @@ export default function Sidebar() {
   return (
     <aside className="gg-sidebar">
       <div className="gg-brand">
-        <div className="gg-brand-mark">G</div>
-        <span className="gg-brand-name">GildedGlow</span>
+        <div className="gg-brand-mark">Z</div>
+        <span className="gg-brand-name">Zume</span>
       </div>
       <div className="gg-sidebar-search">
         <div className="gg-input-icon">
